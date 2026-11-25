@@ -1,2 +1,4 @@
 # dynamic-memory-compression
-Dynamically compress memory bank optimized data based on the importance score of each data item.
+Dynamically compress memories based on importance and human cognitive signals like time-decay, frequency using Ebbinghaus forgetting curve.
+
+[Research Direction](./Research_Proposal.pdf)
